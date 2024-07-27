@@ -1,2 +1,2 @@
 # Snake_Game
-Snake Game using python ,using turtle 
+Creating a fun Snake Game using turtle  in python .
